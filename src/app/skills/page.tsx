@@ -22,7 +22,7 @@ const skills: Skill[] = [
     { name: "Python", color: "bg-[linear-gradient(110deg,#000103,45%,#003310,50%,#000103)]  border-green-800 " },
     { name: "Github", color: "bg-[linear-gradient(110deg,#000103,45%,#A9A9A9,50%,#000103)]  border-white " },
     { name: "C++", color: "bg-[linear-gradient(110deg,#000103,45%,#7E1F1B,50%,#000103)]  border-red-600 " },
-    { name: "Firbase", color: "bg-[linear-gradient(110deg,#000103,45%,#C49A6C,50%,#000103)]  border-yellow-100 " },
+    { name: "Firebase", color: "bg-[linear-gradient(110deg,#000103,45%,#C49A6C,50%,#000103)]  border-yellow-100 " },
 ]
 
 const page = () => {
